@@ -1,0 +1,56 @@
+[
+  {
+    "userId": 1,
+    "name": "Anil devulapally",
+    "title": ["Front-End Developer", "MERN Developer"],
+    "skills": ["JavaScript", "ReactJs", "HTML", "CSS", "Bootstrap"],
+    "location": ["Warangal, India", ""],
+    "contact": ["+918801717925", "anildevulapally45@gmail.com", ""],
+    "edu": [
+      "Edyoda, Educational institution in Bengaluru, Karnataka",
+      "https://www.edyoda.com/home",
+      "https://goo.gl/maps/u2Z2GPcrYUX2FcHR7"
+    ],
+    "photos": [
+      "https://live.staticflickr.com/65535/52371245278_09df20e79d_z.jpg",
+      "https://live.staticflickr.com/65535/52410009062_7faa15744e_o.png",
+      "https://live.staticflickr.com/65535/52410845154_98782325d0_o.png",
+      "https://live.staticflickr.com/65535/52411613585_ac4a4b3fa8_o.png"
+    ],
+    "quote": "\"Everything should be made as simple as possible, but not simpler.\" - Albert Einstein",
+    "memoji": [
+      "https://live.staticflickr.com/65535/52412628019_bcecdc9938_o.png",
+      "https://live.staticflickr.com/65535/52412855238_38320ded51_o.png",
+      "https://live.staticflickr.com/65535/52374357319_bd42e7c80f_o.jpg",
+      "https://live.staticflickr.com/65535/52412627994_57204fb4fe_o.png",
+      "https://live.staticflickr.com/65535/52374286125_c436336221_o.jpg",
+      "https://live.staticflickr.com/65535/52412628014_8d8f166a1f_o.png",
+      "https://live.staticflickr.com/65535/52412855238_38320ded51_o.png",
+      "https://live.staticflickr.com/65535/52412855253_c8e26f56c3_o.png"
+    ],
+    "project": [
+      "https://live.staticflickr.com/65535/52417108516_3923793a68_o.png",
+      "https://live.staticflickr.com/65535/52666951013_5631465ff0_k.jpg",
+      "https://live.staticflickr.com/65535/52546571594_f428041eab_o.png",
+      "https://live.staticflickr.com/65535/52382793153_6164c4aec9_o.jpg",
+      "https://live.staticflickr.com/65535/52546584309_e7a4b4ce6e_o.png"
+    ],
+    "projectGit": [
+      "https://github.com/a14a19/Shoplane",
+      "https://github.com/a14a19/Nuuk-WebApp",
+      "https://github.com/a14a19/admin-panel.git",
+      "https://github.com/a14a19/starwar-pokemon",
+      "https://github.com/a14a19/calculator-app.git"
+    ],
+    "social": [
+      "https://github.com/Anibca",
+      "https://www.linkedin.com/in/anildevulapally45/",
+      "https://www.instagram.com/anidevulapally/",
+      "https://twitter.com/ani_dev3",
+      "https://www.facebook.com/anidevulapally/"
+    ],
+    "inspired": "https://www.milipernia.com/index.html",
+    "website": "",
+    "projectUrl": []
+  }
+]
