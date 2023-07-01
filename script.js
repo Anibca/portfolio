@@ -30,7 +30,7 @@ fetch(`users-data.json`)
           try {
             if (element[x] == "") {
               throw new Error(
-                "Please wait while host is fixing the error or inform at '+918801717925' or 'anildevulapally45@gmail.com', Thank you!!"
+
               );
             }
           } catch (err) {
@@ -59,7 +59,7 @@ fetch(`users-data.json`)
       try {
         if ((userId, name, quote, inspired, website == "")) {
           throw new Error(
-            "Please wait while host is fixing the error or inform at '+918801717925' or 'anildevulapally45@gmail.com', Thank you!!"
+           
           );
         }
       } catch (err) {
